@@ -1,0 +1,10 @@
+#FROM
+#http://www.notre-site.com/index.php?p=profil
+#TO
+#http://www.notre-site.com/profil.html
+
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^([a-zA-Z0-9_-]+).html$   /index.php?p=$1 [L]
+
+ErrorDocument 404 /404.html
