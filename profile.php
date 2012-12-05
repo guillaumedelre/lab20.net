@@ -56,8 +56,8 @@
 				</div>
 				<div class="post-content">
 					<div class="featured"><a href="realisations.html#/mibparis"><span class="more"></span><img src="./projects/thumbs/mibparis.png" alt=""></a></div>
-					<h2 class="title"><a href="realisations.html#/mibparis">Message In a Bottle - Paris</a></h2>
-					<p>MAIRIE DE PARIS, PLATEFORME DE COMMUNCATION AVEC L'USAGER.</p>
+					<h2 class="title"><a href="realisations.html#/mibparis">Message In a Bottle - Mairie de Paris</a></h2>
+					<p>PLATEFORME DE COMMUNCATION AVEC L'USAGER.</p>
 				</div>
 			</div>
 			<div class="post">
