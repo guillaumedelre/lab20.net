@@ -11,6 +11,43 @@
 		<div class="thumbnail-wrapper col2">
 			<ul class="zetaThumbs clearfix">
 				
+				<li data-id="mibparis" class="item"> 
+					<a class="preview" href="projects/mibparis.html">
+						<span class="more"></span>
+						<img src="./projects/thumbs/mibparis.png" alt="">
+					</a>
+					<div class="text">
+						<h4>Message In a Bottle</h4>
+					</div>
+					<div class="more-detail">
+						<span>Mairie de Paris, plateforme de communication avec l'usager.</span>
+						<a href="javascript:void(0);" onclick="$($(this).parent().next()).find('h4.title').trigger('click');" class="btn info"></a>
+						
+					</div>
+					<div class="toggle">
+						<h4 class="title toggler">Plus d'informations ...</h4>
+						<div class="togglebox">
+							<div>
+								<h6>Technologies</h6>
+								<a href="#" class="button blue small">php 5</a>
+								<a href="#" class="button blue small">doctrine 2</a>
+								<a href="#" class="button blue small">html 5</a>
+								<a href="#" class="button blue small">css 2</a>
+								<a href="#" class="button blue small">jquery 1.8</a>
+							</div>
+							<div>
+								<h6>Données</h6>
+								<a href="#" class="button orange small">mysql 5</a>
+								<a href="#" class="button orange small">flux json</a>
+							</div>
+							<div>
+								<h6>Api</h6>
+								<a href="#" class="button purple small">Paris Connect</a>
+							</div>
+						</div>
+					</div>
+				</li>
+				
 				<li data-id="myurbanfrance" class="item"> 
 					<a class="preview" href="projects/myurbanfrance.html">
 						<span class="more"></span>
