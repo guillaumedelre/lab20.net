@@ -22,7 +22,8 @@
 					<div class="more-detail">
 						<span>Mairie de Paris, plateforme de communication avec l'usager.</span>
 						<a href="javascript:void(0);" onclick="$($(this).parent().next()).find('h4.title').trigger('click');" class="btn info"></a>
-						
+						<a href="http://emp.paris.fr" target="_blank" class="btn view"></a>
+
 					</div>
 					<div class="toggle">
 						<h4 class="title toggler">Plus d'informations ...</h4>
